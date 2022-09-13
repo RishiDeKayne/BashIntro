@@ -1,4 +1,3 @@
-# ohknow
 
 ### Welcome to the bash refresher wiki
 
