@@ -1,5 +1,6 @@
 
-### Welcome to the bash refresher wiki - you can find the original version of the wiki and the oh-know workshop [here](https://github.com/KamilSJaron/oh-know/wiki/Bash-refresher)
+### Welcome to the bash refresher wiki 
+### You can find the original version of the wiki and the oh-know workshop [here](https://github.com/KamilSJaron/oh-know/wiki/Bash-refresher)
 
 Today we will start with an short introduction to sequencing technologies followed by practicals on bash basics split into 2 parts:  
 
