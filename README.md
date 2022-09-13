@@ -7,10 +7,8 @@ Today we will start with an short introduction to sequencing technologies follow
 - Lecture on YouTube: [Introduction to Genomics and Sequencing](https://www.youtube.com/watch?v=XOilMYsUin8&list=PL-_gg7O4EMWbFLTdqr501tjNJ1xq43BqA&index=1)
 - Bash practicals part 1: 
   - Lecture on YouTube: [bash / unix / bioinformatics tutorial for beginners part 1](https://www.youtube.com/watch?v=i-TaAjuxq8Y&list=PL-_gg7O4EMWbFLTdqr501tjNJ1xq43BqA&index=2)
-  - Jump to [General bash introduction](https://github.com/KamilSJaron/oh-know/wiki/Bash-refresher#1-general-bash)  
 - Bash practicals part 2:
   - Lecture on YouTube: [bash / unix / bioinformatics tutorial for beginners part 2](https://www.youtube.com/watch?v=tV8gmBQr8fU&list=PL-_gg7O4EMWbFLTdqr501tjNJ1xq43BqA&index=3)
-  - Jump to [Working on the cluster](https://github.com/KamilSJaron/oh-know/wiki/Bash-refresher#2-working-on-the-cluster)  
   
   
 ## 1. General bash  
